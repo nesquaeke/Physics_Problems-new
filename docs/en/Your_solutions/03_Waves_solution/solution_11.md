@@ -1,0 +1,1 @@
+Concept: Thomas Young's famous double-slit experiment. Two points create waves simultaneously. When the peaks of the waves meet, they create bright bands (constructive interference). When a peak meets a valley, they cancel out, creating dark bands (destructive interference).

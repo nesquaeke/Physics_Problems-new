@@ -1,0 +1,1 @@
+10. Animation: Wave SourcesConcept: This animation simulates dropping pebbles into a pond. Wherever you click, a new wave source starts. The parameter $\alpha$ (alpha) decides how fast the wave's height drops off over distance (attenuation).

@@ -1,0 +1,3 @@
+
+5. Echo Ranging
+Concept: An echo is sound going out, hitting a wall, and coming back. The time given ($1$ second) is for the round trip.Step-by-Step Solution:Since $1$ second is the total time, the sound took only half of that time to reach the cliff:$$t = 0.5 \text{ seconds}$$Use the simple distance formula (Distance = Speed $\cdot$ Time):$$d = v \cdot t = 343 \cdot 0.5 = 171.5 \text{ meters}$$The cliff is $171.5$ meters away.
