@@ -1,4 +1,4 @@
-## ✅ 11. Two-Slit Interference (Mathematical Solution)
+## ✅ 11. Two-Slit Interference 
 
 ### 📌 Physical Idea
 Two slits act as two wave sources. Each slit produces a wave that spreads in space.
